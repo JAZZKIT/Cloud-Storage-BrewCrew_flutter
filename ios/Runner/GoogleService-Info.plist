@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606430422327-al4edksvvijaillfvlsh5ccsj99duqur.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606430422327-al4edksvvijaillfvlsh5ccsj99duqur</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxkedn4BgS04iyKp0H_f1M1gf-l3raFrc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606430422327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.denny.brew-crew</string>
+	<key>PROJECT_ID</key>
+	<string>brewcrew-7ba93</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brewcrew-7ba93.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606430422327:ios:d314dc9fb785e861d166b2</string>
+</dict>
+</plist>
